@@ -67,3 +67,19 @@ body {
   border-radius: 50%;
   background: #21cd35;
 }
+
+.lose {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #ec2024;
+}
+
+.draw {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #ababab;
+}
